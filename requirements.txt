@@ -1,4 +1,4 @@
+# F5-SDK base install, python requirements
 requests
 f5-sdk==3.0.21
 pyYaml
-setuptools
